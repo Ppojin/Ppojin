@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ppojin&layout=compact)](https://github.com/Ppojin/github-readme-stats)
+<a href="https://github.com/ppojin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ppojin&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/ppojin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppojin&show_icons=true" />
+</a>
