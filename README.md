@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/ppojin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppojin&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ppojin&show_icons=true&theme=dark" />
 </a>
 <br/>
 <br/>
 <a href="https://github.com/ppojin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" />
 </a>
 <br/>
 <br/>
